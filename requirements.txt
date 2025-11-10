@@ -1,0 +1,20 @@
+# Arquivo requirements.txt para o projeto CrediCheck
+
+# Data Manipulation e Analysis
+pandas==2.0.3
+
+# Deep Learning Framework
+tensorflow==2.16.1
+
+# Machine Learning e Pre-processamento
+scikit-learn>=1.4.2 
+
+# Ferramenta para balanceamento de classes (SMOTE)
+imbalanced-learn
+
+# Integração Keras/Scikit-learn
+scikeras
+
+# Visualização de Dados
+matplotlib
+seaborn
